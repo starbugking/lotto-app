@@ -13,7 +13,7 @@ import {
 // ============================================
 // GitHub Raw URL - 데이터 자동 업데이트
 // ============================================
-const GITHUB_DATA_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/lotto-app/main/lotto-data.json';
+const GITHUB_DATA_URL = 'https://raw.githubusercontent.com/starbugking/lotto-app/main/lotto-data.json';
 
 // ============================================
 // 앱 컴포넌트
