@@ -1,0 +1,13 @@
+{
+  "appId": "com.jinsu.lottoapp",
+  "appName": "로또번호추천",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "AdMob": {
+      "appIdAndroid": "ca-app-pub-1814435248484070~XXXXXXXXXX"
+    }
+  }
+}
