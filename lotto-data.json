@@ -1,7 +1,20 @@
 {
-  "lastUpdate": "2026-06-20",
-  "latestRound": 1229,
+  "lastUpdate": "2026-06-27",
+  "latestRound": 1230,
   "data": [
+    {
+      "round": 1230,
+      "numbers": [
+        3,
+        8,
+        9,
+        22,
+        28,
+        42
+      ],
+      "bonus": 45,
+      "date": "2026-06-27"
+    },
     {
       "round": 1229,
       "numbers": [
